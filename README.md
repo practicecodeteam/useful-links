@@ -8,7 +8,7 @@
 
 [Smashing Mag](https://www.smashingmagazine.com/)
 
-[awwwards](https://www.awwwards.com/10-print-magazines-web-design.html)
+[Awwwards](https://www.awwwards.com/10-print-magazines-web-design.html)
 
 [Webdesigner Depot](https://www.webdesignerdepot.com/)
 
